@@ -3,7 +3,7 @@ package writeaheadlog
 import (
 	"testing"
 
-	"github.com/NebulousLabs/fastrand"
+	"github.com/zuluspl0it/fastrand"
 )
 
 // TestPageMarshalling checks that pages can be marshalled and unmarshalled correctly
