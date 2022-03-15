@@ -5,8 +5,8 @@ import (
 	"os"
 	"sync"
 
-	"github.com/NebulousLabs/errors"
-	"github.com/NebulousLabs/fastrand"
+	"github.com/zuluspl0it/errors"
+	"github.com/zuluspl0it/fastrand"
 )
 
 // scrambleData takes some data as input and replaces parts of it randomly with
